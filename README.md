@@ -9,7 +9,7 @@
 <p>Estudiante de Ingeniería en Informática<br>
 Mención Desarrollo de Software · Duoc UC</p>
 
-<img src="./hello.gif" width="280" alt="GIF de bienvenida">
+<img src="./hello.gif.gif" width="280" alt="GIF de bienvenida">
 
 <p>♡ Un poquito de código y mucho rosa ♡</p>
 
@@ -49,10 +49,12 @@ y bases de datos.
 ## 🍓 Proyectos académicos
 
 ### Choco&Frutas
+
 Proyecto de una tienda con gestión de productos,
 usuarios y stock, utilizando React, Spring Boot y MySQL.
 
 ### SIMIC
+
 Proyecto académico de gestión inteligente de
 infraestructuras críticas, con sensores IoT y
 planificación de mantenimiento.
