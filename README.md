@@ -11,7 +11,7 @@ Mención Desarrollo de Software · Duoc UC</p>
 
 <img src="./hello.gif.gif" width="280" alt="GIF de bienvenida">
 
-<p>♡ Un poquito de código y mucho rosa ♡</p>
+<p>♡ Un poquito de código ♡</p>
 
 </div>
 
